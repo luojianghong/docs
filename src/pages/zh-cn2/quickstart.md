@@ -21,7 +21,7 @@ vue init webpack projectname
 在 main.js 中写入以下内容：
 ```javascript
 import Vue from 'vue'
-import MintUI from 'mint-ui'
+import MintUI from 'mint-ui-abc'
 import 'mint-ui/lib/style.css'
 import App from './App.vue'
 
@@ -63,7 +63,7 @@ npm install babel-plugin-component -D
 
 ```javascript
 import Vue from 'vue'
-import { Button, Cell } from 'mint-ui'
+import { Button, Cell } from 'mint-ui-abc'
 import App from './App.vue'
 
 Vue.component(Button.name, Button)

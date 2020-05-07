@@ -7,7 +7,7 @@
 ## 引入
 
 ```javascript
-import { Navbar, TabItem } from 'mint-ui';
+import { Navbar, TabItem } from 'mint-ui-abc';
 
 Vue.component(Navbar.name, Navbar);
 Vue.component(TabItem.name, TabItem);

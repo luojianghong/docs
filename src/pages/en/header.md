@@ -7,7 +7,7 @@
 ## Import
 
 ```javascript
-import { Header } from 'mint-ui';
+import { Header } from 'mint-ui-abc';
 
 Vue.component(Header.name, Header);
 ```

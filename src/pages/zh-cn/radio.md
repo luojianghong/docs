@@ -7,7 +7,7 @@
 ## 引入
 
 ```javascript
-import { Radio } from 'mint-ui';
+import { Radio } from 'mint-ui-abc';
 
 Vue.component(Radio.name, Radio);
 ```

@@ -6,7 +6,7 @@
 ## Import
 
 ```javascript
-import { MessageBox } from 'mint-ui';
+import { MessageBox } from 'mint-ui-abc';
 ```
 
 ## Example

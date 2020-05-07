@@ -7,7 +7,7 @@
 ## Import
 
 ```javascript
-import { Checklist } from 'mint-ui';
+import { Checklist } from 'mint-ui-abc';
 
 Vue.component(Checklist.name, Checklist);
 ```

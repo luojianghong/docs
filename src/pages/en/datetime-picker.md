@@ -7,7 +7,7 @@
 ## Import
 
 ```javascript
-import { DatetimePicker } from 'mint-ui';
+import { DatetimePicker } from 'mint-ui-abc';
 
 Vue.component(DatetimePicker.name, DatetimePicker);
 ```

@@ -7,7 +7,7 @@
 ## Import
 
 ```javascript
-import { Switch } from 'mint-ui';
+import { Switch } from 'mint-ui-abc';
 
 Vue.component(Switch.name, Switch);
 ```

@@ -6,7 +6,7 @@
 ## Import
 
 ```javascript
-import { Toast } from 'mint-ui';
+import { Toast } from 'mint-ui-abc';
 ```
 
 ## Example

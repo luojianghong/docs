@@ -1,7 +1,7 @@
 {
   "name": "docs",
   "version": "0.0.0",
-  "description": "documentation for mint-ui.",
+  "description": "documentation for mint-ui-abc.",
   "private": false,
   "keywords": [],
   "scripts": {
@@ -12,11 +12,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mint-ui/docs.git"
+    "url": "git+https://github.com/mint-ui-abc/docs.git"
   },
-  "homepage": "https://github.com/mint-ui/docs#readme",
+  "homepage": "https://github.com/mint-ui-abc/docs#readme",
   "bugs": {
-    "url": "https://github.com/mint-ui/docs/issues"
+    "url": "https://github.com/mint-ui-abc/docs/issues"
   },
   "author": "elemefe",
   "license": "MIT",

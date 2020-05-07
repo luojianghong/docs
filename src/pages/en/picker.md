@@ -7,7 +7,7 @@
 ## Import
 
 ```javascript
-import { Picker } from 'mint-ui';
+import { Picker } from 'mint-ui-abc';
 
 Vue.component(Picker.name, Picker);
 ```

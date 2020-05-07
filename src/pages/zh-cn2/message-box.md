@@ -6,7 +6,7 @@
 ## 引入
 
 ```javascript
-import { MessageBox } from 'mint-ui';
+import { MessageBox } from 'mint-ui-abc';
 ```
 
 ## 例子

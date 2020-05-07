@@ -7,7 +7,7 @@
 ## 引入
 
 ```javascript
-import { Range } from 'mint-ui';
+import { Range } from 'mint-ui-abc';
 
 Vue.component(Range.name, Range);
 ```

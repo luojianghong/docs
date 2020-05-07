@@ -6,7 +6,7 @@
 ## Import
 
 ```javascript
-import { Indicator } from 'mint-ui';
+import { Indicator } from 'mint-ui-abc';
 ```
 
 ## Example

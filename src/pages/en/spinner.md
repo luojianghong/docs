@@ -7,7 +7,7 @@
 ## Import
 
 ```javascript
-import { Spinner } from 'mint-ui';
+import { Spinner } from 'mint-ui-abc';
 
 Vue.component(Spinner.name, Spinner);
 ```

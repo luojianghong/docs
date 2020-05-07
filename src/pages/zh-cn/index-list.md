@@ -7,7 +7,7 @@
 ## 引入
 
 ```javascript
-import { IndexList, IndexSection } from 'mint-ui';
+import { IndexList, IndexSection } from 'mint-ui-abc';
 
 Vue.component(IndexList.name, IndexList);
 Vue.component(IndexSection.name, IndexSection);

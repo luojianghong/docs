@@ -11,13 +11,13 @@ npm i mint-ui@1 -S
 ```
 
 ### CDN
-Get the latest version from [unpkg.com/mint-ui@1](https://unpkg.com/mint-ui@1/), and import JavaScript and CSS file in your page.
+Get the latest version from [unpkg.com/mint-ui-abc@1](https://unpkg.com/mint-ui-abc@1/), and import JavaScript and CSS file in your page.
 
 ```html
 <!-- import CSS -->
-<link rel="stylesheet" href="https://unpkg.com/mint-ui@1/lib/style.css">
+<link rel="stylesheet" href="https://unpkg.com/mint-ui-abc@1/lib/style.css">
 <!-- import JavaScript -->
-<script src="https://unpkg.com/mint-ui@1/lib/index.js"></script>
+<script src="https://unpkg.com/mint-ui-abc@1/lib/index.js"></script>
 ```
 
 
@@ -30,7 +30,7 @@ If you are using CDN, a Hello world page is easy to code with Mint UI.
 <head>
   <meta charset="UTF-8">
   <!-- import CSS -->
-  <link rel="stylesheet" href="https://unpkg.com/mint-ui@1/lib/style.css">
+  <link rel="stylesheet" href="https://unpkg.com/mint-ui-abc@1/lib/style.css">
 </head>
 <body>
   <div id="app">
@@ -40,7 +40,7 @@ If you are using CDN, a Hello world page is easy to code with Mint UI.
   <!-- import Vue before Mint UI -->
   <script src="https://unpkg.com/vue@1/dist/vue.js"></script>
   <!-- import JavaScript -->
-  <script src="https://unpkg.com/mint-ui@1/lib/index.js"></script>
+  <script src="https://unpkg.com/mint-ui-abc@1/lib/index.js"></script>
   <script>
     new Vue({
       el: '#app',

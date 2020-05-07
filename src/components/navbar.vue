@@ -2,7 +2,7 @@
   <nav class="nav">
     <ul>
       <li>
-        <a class="nav-link edit-doc-btn" href="https://github.com/mint-ui/docs" target="_blank">
+        <a class="nav-link edit-doc-btn" href="https://github.com/mint-ui-abc/docs" target="_blank">
           {{ isZH ? '参与文档编辑' : 'Edit Documentation' }}
         </a>
       </li>

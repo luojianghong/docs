@@ -7,7 +7,7 @@
 ## Import
 
 ```javascript
-import { TabContainer, TabContainerItem } from 'mint-ui';
+import { TabContainer, TabContainerItem } from 'mint-ui-abc';
 
 Vue.component(TabContainer.name, TabContainer);
 Vue.component(TabContainerItem.name, TabContainerItem);

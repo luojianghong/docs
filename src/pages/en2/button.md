@@ -7,7 +7,7 @@
 ## Import
 
 ```javascript
-import { Button } from 'mint-ui';
+import { Button } from 'mint-ui-abc';
 
 Vue.component(Button.name, Button);
 ```

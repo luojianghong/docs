@@ -7,7 +7,7 @@
 ## 引入
 
 ```javascript
-import { Loadmore } from 'mint-ui';
+import { Loadmore } from 'mint-ui-abc';
 
 Vue.component(Loadmore.name, Loadmore);
 ```

@@ -23,8 +23,8 @@ You can import Mint UI entirely, or just import what you need. Let's first take 
 In main.js:
 ```javascript
 import Vue from 'vue'
-import MintUI from 'mint-ui'
-import 'mint-ui/lib/style.css'
+import MintUI from 'mint-ui-abc'
+import 'mint-ui-abc/lib/style.css'
 import App from './App.vue'
 
 Vue.use(MintUI)
@@ -65,7 +65,7 @@ If you need Button and Cell, edit main.js:
 
 ```javascript
 import Vue from 'vue'
-import { Button, Cell } from 'mint-ui'
+import { Button, Cell } from 'mint-ui-abc'
 import App from './App.vue'
 
 Vue.component(Button.name, Button)

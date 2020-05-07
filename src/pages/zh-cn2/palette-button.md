@@ -7,7 +7,7 @@
 ## 引入
 
 ```javascript
-import { PaletteButton } from 'mint-ui';
+import { PaletteButton } from 'mint-ui-abc';
 
 Vue.component(PaletteButton.name, PaletteButton);
 ```

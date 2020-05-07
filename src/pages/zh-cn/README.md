@@ -9,17 +9,17 @@
 推荐使用 npm 的方式安装，它能更好地和 [webpack](https://webpack.js.org/) 打包工具配合使用。
 
 ```shell
-npm i mint-ui@1 -S
+npm i mint-ui-abc@1 -S
 ```
 
 ### CDN
-目前可以通过 [unpkg.com/mint-ui@1](https://unpkg.com/mint-ui@1/) 获取到最新版本的资源，在页面上引入 js 和 css 文件即可开始使用。
+目前可以通过 [unpkg.com/mint-ui@1](https://unpkg.com/mint-ui-abc@1/) 获取到最新版本的资源，在页面上引入 js 和 css 文件即可开始使用。
 
 ```html
 <!-- 引入样式 -->
-<link rel="stylesheet" href="https://unpkg.com/mint-ui@1/lib/style.css">
+<link rel="stylesheet" href="https://unpkg.com/mint-ui-abc@1/lib/style.css">
 <!-- 引入组件库 -->
-<script src="https://unpkg.com/mint-ui@1/lib/index.js"></script>
+<script src="https://unpkg.com/mint-ui-abc@1/lib/index.js"></script>
 ```
 
 
@@ -32,7 +32,7 @@ npm i mint-ui@1 -S
 <head>
   <meta charset="UTF-8">
   <!-- 引入样式 -->
-  <link rel="stylesheet" href="https://unpkg.com/mint-ui@1/lib/style.css">
+  <link rel="stylesheet" href="https://unpkg.com/mint-ui-abc@1/lib/style.css">
 </head>
 <body>
   <div id="app">
@@ -42,7 +42,7 @@ npm i mint-ui@1 -S
   <!-- 先引入 Vue -->
   <script src="https://unpkg.com/vue@1/dist/vue.js"></script>
   <!-- 引入组件库 -->
-  <script src="https://unpkg.com/mint-ui@1/lib/index.js"></script>
+  <script src="https://unpkg.com/mint-ui-abc@1/lib/index.js"></script>
   <script>
     new Vue({
       el: '#app',

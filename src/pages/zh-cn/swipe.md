@@ -7,7 +7,7 @@
 ## 引入
 
 ```javascript
-import { Swipe, SwipeItem } from 'mint-ui';
+import { Swipe, SwipeItem } from 'mint-ui-abc';
 
 Vue.component(Swipe.name, Swipe);
 Vue.component(SwipeItem.name, SwipeItem);

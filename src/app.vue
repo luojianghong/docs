@@ -134,13 +134,13 @@
       top: 0;
       left: 0;
       width: 100%;
-      background-color: #26a2ff;
+      background-color: #009983;
       z-index: 10;
     }
 
     .navbar-toggle {
       display: block;
-      background-color: #26a2ff;
+      background-color: #009983;
       border-radius: 4px;
       border: 1px solid #fff;
       height: 35px;
